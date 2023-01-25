@@ -21,12 +21,13 @@
 title: Asmita
 email: asmita.jha82@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey, I am a PhD student at UC Davis.
+  Hey, I am a PhD student at UC Davis. My research domain is Embedded Firmware Security.
 domain: asmitaj08.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://asmitaj08.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: aj_0x00
+github_username:  asmitaj08
+linkedin_username: asmita-a
 
 # Build settings
 theme: minima
