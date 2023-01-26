@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trainings & Talks
+title: Talks
 permalink: /trainings-and-talks/
 ---
 
