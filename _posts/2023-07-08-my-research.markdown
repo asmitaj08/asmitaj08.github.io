@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Research!"
-date:   2023-07-08 10:53:49 -0800
+date:   2023-07-08 00:53:49 -0800
 # categories: jekyll update
 ---
 **Unveiling Fuzzing in Embedded Firmware** \
