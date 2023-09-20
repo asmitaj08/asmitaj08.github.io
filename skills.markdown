@@ -5,7 +5,7 @@ permalink: /skills/
 ---
 **Languages** : Python, C 
 
-**Firmware Security** : Static analysis, Dynamic analysis, Fuzzing, Emulation, Control flow graph, Crash triaging, Firmware reverse engineering (ARM), Debugging *(Embedded security | IoT security)*
+**Firmware Security** : Static analysis, Dynamic analysis, Fuzzing, Emulation, Control flow graph, Crash triaging, Firmware reverse engineering (ARM), Debugging *(Embedded security, IoT security)*
 
 
 **Hardware Security** : Firmware extraction via JTAG, UART, SWD, Flash memory; Hardware root of trust, basics of Side channel and Fault injection attacks, secure boot, peripheral-based exploits (I2C, SPI, UART, USB), PCB reverse engineering
