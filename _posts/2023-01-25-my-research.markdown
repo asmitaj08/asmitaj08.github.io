@@ -5,7 +5,7 @@ date:   2023-01-25 00:53:49 +0000
 last_modified_at: 2023-07-08 1:09:00 +0000
 # categories: jekyll update
 ---
-**Unveiling Fuzzing in Embedded Firmware** \
+**Unveiling Fuzzing in Embedded Firmware** 
 
 
 Welcome to an overview of my research, which focuses on fuzzing in embedded firmware. This article provides a brief summary of the topics I will cover in my research, highlighting the significance of understanding fuzzing, exploring existing fuzzers, leveraging fuzzing in embedded firmware, and investigating the scenario of bare-metal firmware. Additionally, I will delve into the available fuzzing tools targeting embedded systems, discuss diverse fuzzing possibilities (i.e. focused more on fuzzing than emulation/rehosting), and the process of performing fuzzing on bare-metal firmware.
