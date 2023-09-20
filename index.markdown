@@ -6,4 +6,4 @@ layout: home
 
 ---
 
-[Resume](https://github.com/asmitaj08/asmitaj08.github.io/blob/main/Asmita_Resume_sum23.pdf)
+[Resume](https://github.com/asmitaj08/asmitaj08.github.io/blob/main/Asmita_Resume_Fall2023.pdf)
