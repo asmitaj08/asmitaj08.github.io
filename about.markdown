@@ -30,4 +30,6 @@ The challenges associated with security assessments, particularly firmware asses
 
 Currently, my research focus revolves around the application of fuzzing techniques to enhance firmware security assessment. I'm excited to share more about my research and provide valuable insights into embedded security on this website.
 
-Thank you for visiting, and I look forward to sharing my journey and discoveries with you.<br>
+In addition to my research endeavors, I take on the role of a Teaching Assistant (TA) for embedded system courses (EEC007 x3, EEC172 x2). My responsibilities include leading engaging lab sessions, providing support to around 20 students during each session. Beyond academia, I also enjoy participating in Capture The Flag (CTF) challenges and exploring various tech innovations
+
+Thank you for visiting, and I look forward to sharing my journey and findings with you.<br>
