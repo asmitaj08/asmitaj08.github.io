@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blogs&Projects
-permalink: /blogs/
+permalink: /blogs-projects/
 ---
 
 * Some blogs that I wrote while working at Payatu - [Payatu-blog-asmita](https://payatu.com/author/asmita-jha/)
