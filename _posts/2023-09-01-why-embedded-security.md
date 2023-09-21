@@ -1,9 +1,8 @@
- 
 ---
 layout: post
 title:  "Why embedded security?"
-date:   2023-09-20 00:53:49 +0000
-last_modified_at: 2023-09-20 1:09:00 +0000
+date:   2023-09-01 00:53:49 +0000
+last_modified_at: 2023-09-01 1:09:00 +0000
 # categories: jekyll update
 ---
 **Why embedded security?** 
