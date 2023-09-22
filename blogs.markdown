@@ -11,3 +11,5 @@ permalink: /blogs-projects/
 * IOSC2: Identification & analysis of Outdated Software Components and corresponding CVEs in IoT firmware - [Github link](https://github.com/asmitaj08/IOSC2)
 
 * Unveil OS-based IoT firmware - [Github link](https://github.com/asmitaj08/OS-based-firmware-unveil)
+
+* Binary similarity project - [Github link](https://github.com/asmitaj08/BinarySimilarityProject)
