@@ -3,13 +3,46 @@ layout: page
 title: Skills
 permalink: /skills/
 ---
-**Languages** : Python, C 
 
-**Firmware Security** : Static analysis, Dynamic analysis, Fuzzing, Emulation, Control flow graph, Crash triaging, Firmware reverse engineering (ARM), Debugging *(Embedded security, IoT security)*
+## My Skills
 
+### Programming Languages
+- Python
+- C
 
-**Hardware Security** : Firmware extraction via JTAG, UART, SWD, Flash memory; Hardware root of trust, basics of Side channel and Fault injection attacks, secure boot, peripheral-based exploits (I2C, SPI, UART, USB), PCB reverse engineering
+### Firmware Security
+- Static Analysis
+- Dynamic Analysis
+- Fuzzing
+- Emulation
+- Control Flow Graph
+- Crash Triaging
+- Firmware Reverse Engineering (ARM)
+- Debugging (Embedded Security, IoT Security)
 
-**Software/Tools** : Ghidra, Radare, Qemu, Unicorn, Qiling, Renode, AFl/AFL++, LibAFL, LibFuzzer, OSS-Fuzz, Binwalk, Firmadyne, Avatar, Angr, Panda, and  other tools related to firmware security; Git, Linux
+### Hardware Security
+- Firmware Extraction via JTAG, UART, SWD, and Flash memory.
+- Hardware Root of Trust (Basics)
+- Side Channel and Fault Injection Attacks (Basics)
+- Secure Boot (Basics)
+- Peripheral-Based Exploits such as I2C, SPI, UART, and USB.
+- PCB Reverse Engineering
 
-**Others** : Embedded systems, Machine learning basics, Cryptography basics, CTFs, Research, Security practices & standards, Secure coding, Vulnerability detection & mitigation techniques, Computer architecture, Operating system, Data structure & Algorithms (intermediate level)
+### Software/Tools
+- Ghidra, Radare
+- Unicorn, Qiling, Renode, Qemu
+- AFl/AFL++, LibAFL, LibFuzzer, OSS-Fuzz
+- Firmadyne, Avatar, Angr, Panda
+- Git, Linux
+
+### Other Skills
+- Embedded Systems
+- Machine Learning Basics
+- Cryptography Basics
+- Capture The Flags (CTFs)
+- Research
+- Security Practices & Standards
+- Secure Coding
+- Vulnerability Detection & Mitigation Techniques
+- Computer Architecture
+- Operating Systems
