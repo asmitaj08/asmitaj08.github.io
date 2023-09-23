@@ -45,3 +45,13 @@ Dive into my project [Binary Similarity Project](https://github.com/asmitaj08/Bi
 - Contributions included dataset generation, feature extraction from binary control flow graphs (CFGs), feature vectorization, and applying MLP and CNN algorithms.
 
 Feel free to explore these blogs and projects, and don't hesitate to reach out if you have any questions or would like to collaborate!
+
+
+### Exploring Firmware Security: Initial Studies
+
+In my early exploration of firmware security, I conducted the following studies:
+
+- [System level security tetsing on embedded hardware and firmware: A study and analysis](https://github.com/asmitaj08/embedded_security_generic_studies/blob/main/study_embedded_security_testing.pdf)
+     - This study involved a comprehensive survey of security issues in embedded systems, focusing on firmware and hardware attacks. It provides valuable insights into these security challenges, followed by an analysis and a glimpse into future research possibilities.
+- [Identify Memory Corruption Bugs using Fuzzing](https://github.com/asmitaj08/embedded_security_generic_studies/blob/main/Fuzzing-to-identify-mem-corruption-bugs.pdf)
+    - In this project, we delved into existing firmware analysis tools and experimented with fuzzing and symbolic execution techniques (AFL++ and SymCC). The goal was to uncover and understand memory corruption bugs, contributing to the field of firmware security.
