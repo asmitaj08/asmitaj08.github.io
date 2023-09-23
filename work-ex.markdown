@@ -20,7 +20,7 @@ permalink: /work-experience/
 - Led research and implementation efforts for Control Flow Graph-based static analysis.
 - Prototyped binary function similarity using Python to enhance firmware analysis.
 - Contributed to identifying third-party software components in firmware targets.
-- This contribution helped Netrise create a Proof of Concept (PoC) for adding binary similarity identification features to their framework, enhancing their ability to identify third-party software components more accurately.
+- This contribution helped Netrise create a Proof of Concept (PoC) for adding binary similarity identification features to their framework, enhancing the identification of third-party software components more accurately.
 
 ### IoT Security Consultant
 **Payatu, India** - October 2019 to September 2021
