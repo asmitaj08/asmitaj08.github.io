@@ -28,7 +28,7 @@ permalink: /work-experience/
 - Conducted embedded hardware and firmware security assessments, including IoT protocol analysis and basic side-channel and fault injection attacks.
 - Performed security assessments on a wide range of IoT products, including smart cameras, medical devices, access control systems, wireless modems, and ECUs.
 - Served as a security architect for an automotive client, integrating security into product design.
-- Delivered training sessions on IoT hacking, training approximately 50-100 participants at events like Nullcon and CPX360 Checkpoint.
+- Delivered training sessions on IoT hacking, training approximately 50-100 participants at events like Nullcon, CPX360 Checkpoint and other organizations.
 - Contributed to the Expliot framework ([Link](https://gitlab.com/expliot_framework/expliot)).
 - Authored insightful blogs on cybersecurity topics ([Link](https://payatu.com/author/asmita-jha/)).
 - This work helped Payatu efficiently deliver security assessment outcomes to their clients and expand their training programs across different organizations.
