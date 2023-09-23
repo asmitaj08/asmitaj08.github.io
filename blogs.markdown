@@ -7,7 +7,7 @@ permalink: /blogs-projects/
 ### Blogs at Payatu
 During my tenure at Payatu, I authored several insightful blogs. Explore them to delve into various aspects of IoT security: [Payatu-blog-asmita](https://payatu.com/author/asmita-jha/).
 
-### HardPwn Contest Achievement
+### HardPwn Contest
 
 Achieved root access on the Google Pixel watch during the challenging HardPwn contest orgainized by Google at Hardwear.io. Useful links: [xda-forum](https://forum.xda-developers.com/t/how-to-root-google-pixel-watch-using-magisk.4592737/), [HardwearIo](https://media.hardwear.io/hardpwn-usa-2023/).
 
