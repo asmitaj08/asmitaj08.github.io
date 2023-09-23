@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Blogs & Projects
+title: Blogs & Projects
 permalink: /blogs-projects/
 ---
 
