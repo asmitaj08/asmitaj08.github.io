@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Explore My Published Work
+<!-- ## Explore My Published Work -->
 
 I'm passionate about sharing my research findings with the community. Here are some of my published papers:
 

@@ -1,47 +1,51 @@
 ---
 layout: page
-title: Talks
+title: Trainings and Talks
 permalink: /trainings-and-talks/
 ---
 
-Here are the list of invited traings and talks that I have given so far.
+<!-- ## Sharing Knowledge and Insights -->
 
-* **Secure IoT product development with an understanding of the attacker’s perspective, Nullcon Masterclass for Developers**,<br> Online, 26th November 2020 <br>
-Description: It was a 1-hour online talk with 100+ participants. It was targeted for IoT product developers focusing on the
-possible attack surface on IoT devices and some important points that developers/vendors should take care during development
-from the hardware and firmware perspective to mitigate security issues in the IoT products and related challenges involved. [Link](https://developers.nullcon.net/secure-iotproductdevelopment-with-an-understanding-of-the-attackers-perspective/)
-* **Hacking IoT with EXPLIoT Framework, CISO Platform**,<br>
- Online, 13th November 2020 <br>
-Description: It was an online 3.5-hour workshop with 70+ participants. The workshop was focused on towards the introduction to
-the open source IoT Security Testing and Exploitation Framework - EXPLIoT to hack IoT devices and enable the participants to
-use as well as extend it by writing plugins for new IoT based exploits and analysis test cases. [Link](https://event.cisoplatform.com/best-of-the-world-in-security-2020/)
-* **Firmware Reverse Engineering, Hackaday Remoticon**,
-<br> Online, 7th November 2020 <br>
-Description: It was an online 2-hour workshop with 200+ participants from around the world. The workshop was focused on
-providing a brief introduction to firmware and how to reverse engineer it. It was comprised of theory, examples, and a few hands-on labs to get started with firmware reversing.[Link](https://hackaday.com/2020/11/19/remoticon-video-firmware-reverse-engineering-workshop-with-asmita-jha/) 
+I have had the privilege of participating in various trainings and talks, where I shared insights into the fascinating world of IoT and embedded security. Here is a list of some of the invited trainings and talks I have had the opportunity to deliver:
 
-* **IoT Security Assessment, The Indian Dutch Cybersecurity School (IDCSS)**,
-<br> Online, 8th October 2020 <br>
-Description: It was an online 1-hour talk with 300+ participants. The talk was focused on introducing the different aspects and
-methods involved in IoT security assessment and various IoT attack surfaces. [Link](https://www.thehagueindiasummerschool.org/lecturers.html)
+### Secure IoT Product Development with an Understanding of the Attacker’s Perspective
+- **Event:** Nullcon Masterclass for Developers
+- **Date:** 26th November 2020
+- **Description:** This 1-hour online talk, attended by over 100 participants, was tailored for IoT product developers. It focused on exploring potential attack surfaces on IoT devices and offered crucial insights for developers and vendors. The discussion spanned hardware and firmware perspectives and emphasized security mitigation strategies. [Link](https://developers.nullcon.net/secure-iotproductdevelopment-with-an-understanding-of-the-attackers-perspective/)
 
-* **Hardware Attack Basics Workshop**, International Institute of Information Technology Delhi (IIIT), 
-<br>Online, 11th November 2020<br>
-Description: It was an online hands-on 2-hour workshop with 100+ UG & PG students from IIIT. It was focused on basics to start
-with hardware hacking. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6732334033809772544/) 
+### Hacking IoT with EXPLIoT Framework
+- **Event:** CISO Platform
+- **Date:** 13th November 2020
+- **Description:** This 3.5-hour online workshop, with over 70 participants, introduced the open-source IoT Security Testing and Exploitation Framework - EXPLIoT. The workshop enabled participants to explore IoT device hacking and even extend the framework by creating plugins for new IoT-based exploits and analysis test cases. [Link](https://event.cisoplatform.com/best-of-the-world-in-security-2020/)
 
-* **Hacking IoT Training CPX360 Checkpoint**, 
-<br>Bangkok, Vienna & Online<br>
-Description: Initially, I was invited to take an 8-hour training on Hacking IoT at the conference CPX360 held at Bangkok &
-Vienna. Later, I became a regular trainer from Payatu for the training at Checkpoint online. [Link](https://trainingcertifications.checkpoint.com/#/courses/Hacking%20Iot)
+### Firmware Reverse Engineering
+- **Event:** Hackaday Remoticon
+- **Date:** 7th November 2020
+- **Description:** This 2-hour online workshop engaged over 200 participants worldwide. It provided an introduction to firmware and the art of reverse engineering. The session included theory, practical examples, and hands-on labs to kickstart participants' journey into firmware reversing. [Link](https://hackaday.com/2020/11/19/remoticon-video-firmware-reverse-engineering-workshop-with-asmita-jha/)
 
-* **Hardware Hacking Workshop**,
-<br> Nullcon, Goa, India, March 2020 <br>
-Description: It was a 2-hour hands-on hardware hacking workshop with 50+ participants. [Link](https://archive.nullcon.net/website/goa-2020/speakers/asmita-jha.php)
+### IoT Security Assessment
+- **Event:** The Indian Dutch Cybersecurity School (IDCSS)
+- **Date:** 8th October 2020
+- **Description:** In this 1-hour online talk, attended by over 300 participants, I explored different aspects and methodologies involved in IoT security assessment. The discussion shed light on various IoT attack surfaces. [Link](https://www.thehagueindiasummerschool.org/lecturers.html)
 
-* **Payatu IoT Security Webinar**
-<br> [Link](https://www.youtube.com/watch?v=bt6lTYaoceM)
+### Hardware Attack Basics Workshop
+- **Event:** International Institute of Information Technology Delhi (IIIT)
+- **Date:** 11th November 2020
+- **Description:** This 2-hour online workshop engaged over 100 undergraduate and postgraduate students from IIIT. It provided a foundational understanding of hardware hacking to kickstart their journey. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6732334033809772544/)
 
-* **Podcast Guest Invitation** , Nov 2020 <br>
-I was invited as a guest from one of the podcasts, “Unamed RE”. [Link](https://unnamedre.com/episode/42)   
+### Hacking IoT Training
+- **Event:** CPX360 Checkpoint (Bangkok, Vienna, and Online)
+- **Description:** Initially, I delivered an 8-hour training on Hacking IoT at the CPX360 conference held in Bangkok and Vienna. Later, I continued to provide this training online as a regular trainer for Checkpoint. [Link](https://trainingcertifications.checkpoint.com/#/courses/Hacking%20Iot)
 
+### Hardware Hacking Workshop
+- **Event:** Nullcon, Goa, India (March 2020)
+- **Description:** This 2-hour hands-on hardware hacking workshop was attended by over 50 participants. [Link](https://archive.nullcon.net/website/goa-2020/speakers/asmita-jha.php)
+
+### Payatu IoT Security Webinar
+- **Description:** [Link to the Webinar](https://www.youtube.com/watch?v=bt6lTYaoceM)
+
+### Podcast Guest Invitation
+- **Date:** November 2020
+- **Description:** I had the honor of being a guest on the "Unamed RE" podcast. [Link](https://unnamedre.com/episode/42)
+
+These engagements have been wonderful opportunities to share knowledge, collaborate with fellow enthusiasts, and contribute to the field of IoT and embedded security.
