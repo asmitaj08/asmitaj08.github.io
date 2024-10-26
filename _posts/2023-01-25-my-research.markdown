@@ -29,7 +29,7 @@ Finally, I will perform fuzzing on bare-metal firmware, providing guide/analysis
 Conclusion:
 This overview highlights the key topics that will be covered in my research on fuzzing in embedded firmware. This might change later depending on the research progress. By understanding fuzzing, exploring existing fuzzers, leveraging fuzzing techniques in embedded firmware, and considering the unique scenario of bare-metal firmware, we can enhance the security and reliability of embedded systems. I will also explore diverse fuzzing possibilities beyond emulation and rehosting and provide practical guidance on performing fuzzing on bare-metal firmware. Stay tuned for the full research findings and detailed insights into each topic.
 
-**Here is the update!! (2024-25)** 
+## $${\color{green}Here \space is \space the \space update!! \space (2024-25)}$$ 
 1. My main research is in the domain of embedded firmware security, involving the reuse and development of tools to identify potential vulnerabilities in embedded firmware. Currently, I am developing a framework to leverage the LibAFL fuzzer and the Renode emulator for fuzzing microcontroller firmware targeting hardware peripherals.
 2. My 2nd ongoing project is performing fuzzing on the microcontroller hardware peripherals directly at system level instead of involving emulator in between
 3. My 3rd project is researching about how we can leverage LLM for fuzzing and in development of embedded software in general
