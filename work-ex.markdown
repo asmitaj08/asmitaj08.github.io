@@ -6,6 +6,12 @@ permalink: /work-experience/
 
 ## Exploring the World of Cybersecurity and Embedded Systems
 
+### Product Security R&D Intern
+**AMD, USA** - Summer 2024
+
+- Developed fuzzer for AMD GPU IOCTL drivers.
+- Performed hardware fuzzing to change the state of the device under test. 
+  
 ### Firmware Security Intern
 **Netrise, USA** - Summer 2023
 
