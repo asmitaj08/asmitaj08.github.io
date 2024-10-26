@@ -8,10 +8,15 @@ permalink: /publications/
 
 I'm passionate about sharing my research findings with the community. Here are some of my published papers:
 
+### Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing
+- **Authors:** **Asmita**, Y. Oliinyk , M. Scott, R. Tsang,C. Fang, H. Homayoun
+- **Published in:** Usenix 2024
+- **[Read the paper](https://www.usenix.org/conference/usenixsecurity24/presentation/asmita)**
+    
 ### FFXE: Dynamic Control Flow Graph Recovery for Embedded Firmware Binaries
 - **Authors:** R. Tsang,**Asmita**, D. Joseph, S. Salehi, P. Mohaptra, H. Homayoun
 - **Published in:** Usenix 2023
-- - **[Read the paper](https://sec23winter.usenix.hotcrp.com/doc/sec23winter-final480.pdf?cap=hcav480sJAdEcXTdChGLbWbbkBTXieB)**
+- **[Read the paper](https://www.usenix.org/conference/usenixsecurity24/presentation/tsang)**
   
 ### FANDEMIC: Firmware Attack Construction and Deployment on Power Management IC and Impacts on IoT Applications
 - **Authors:** R. Tsang, D. Joseph, **Asmita**, S. Salehi, N. Carreon, P. Mohaptra, H. Homayoun
